@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirebaseAuthentication.iml" filepath="$PROJECT_DIR$/FirebaseAuthentication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FirebaseAuthentication1.iml" filepath="$PROJECT_DIR$/FirebaseAuthentication1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FirebaseAuthentication1.iml" filepath="$PROJECT_DIR$/FirebaseAuthentication1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cis3334-part12-firebase.iml" filepath="$PROJECT_DIR$/cis3334-part12-firebase.iml" />
     </modules>
   </component>
 </project>
